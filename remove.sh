@@ -1,0 +1,5 @@
+rm -rf "$HOME/bem5"
+rm -rf "$HOME/crg47"
+rm -rf "$HOME/tev64"
+rm -rf "$HOME/logs"
+rm -rf "$HOME/log"
